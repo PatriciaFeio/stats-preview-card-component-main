@@ -1,0 +1,31 @@
+{
+  "name": "stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "frontend mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-scss": "sass --watch src/scss/main.scss dist/main.css",
+    "devserver": "live-server",
+    "start": "npm-run-all --parallel devserver watch-scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatriciaFeio/stats-preview-card-component-main.git"
+  },
+  "keywords": [
+    "html",
+    "css3",
+    "sass",
+    "flexbox"
+  ],
+  "author": "Patricia Feio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatriciaFeio/stats-preview-card-component-main/issues"
+  },
+  "homepage": "https://github.com/PatriciaFeio/stats-preview-card-component-main#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
