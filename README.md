@@ -24,7 +24,7 @@ Users should be able to:
 
 ![](design/mobile-375-screenshot.png)
 
-![](design/desktop-1441-screenshot.png)
+![](design/desktop-1440-screenshot.png)
 
 
 ### Links
