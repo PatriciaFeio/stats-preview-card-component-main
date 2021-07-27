@@ -16,6 +16,5 @@
 .prettierignore
 
 # Other files added
-*.md
 node_modules
-style-guide
+style-guide.md
